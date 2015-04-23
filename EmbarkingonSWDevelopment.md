@@ -10,3 +10,7 @@ Ten Tricks for Embarking on Software Development
 8.	Plan to leverage existing platforms whenever possible rather than re-inventing the wheel (example- Shopify)
 9.	Establish in advance a weekly meeting with deliverables (if possible) to monitor progress. 
 10.	Get the whole team on the same page about agile development best practices
+
+![Tricks Image](https://divingphysiology.files.wordpress.com/2011/04/tricks-of-the-trade.jpg)
+
+For futher information agile software development: http://agilemanifesto.org/principles.html
