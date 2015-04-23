@@ -9,8 +9,9 @@ processes in existence – and was similarly pleased to understand there is a �
 Actually, during software development when I described use-cases to the IT team I found they better 
 understood the project from the business perspective. 
 I could really see the benefit of using user stories to explain the purpose and intent of software development. 
+An example could be as simple as saying: As a [role], I want to be able to [function] for the purpose of [benefit]. This is a simple and easy way to get everyone on the same page, which could really help employee morale and joint understanding.
 I also could see the overall benefit to the business – and reducing frustration – in incrementally developing 
-software versus BDUF. 
+software versus  big development upfront (BDUF). 
 
 ![dilbert_swdev.md](https://runningagile.files.wordpress.com/2008/05/dilbert_need_more_programers.gif)
 
